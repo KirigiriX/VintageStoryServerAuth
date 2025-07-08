@@ -1,6 +1,12 @@
 {
-  "status": "ok",
-  "userid": "Kirigiri1337",
-  "token": "abcd1234",
-  "username": "Kirigiri"
+  "valid": 1,
+  "reason": "Logged in successfully",
+  "reasondata": "",
+  "prelogintoken": "fake-prelogin",
+  "sessionkey": "fake-session-key",
+  "sessionsignature": "fake-signature",
+  "hasgameserver": true,
+  "uid": "Kirigiri1337",
+  "playername": "Kirigiri",
+  "entitlements": []
 }
